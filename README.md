@@ -24,7 +24,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had some issues with the code and the design when I was making the app as well as some issues with my hardware. This is what made the app take so long to complete.
 
 ## License
 
